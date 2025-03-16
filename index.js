@@ -5,11 +5,10 @@ function showMessage() {
       <p>You find yourself in a dreamy wonderland, surrounded by glowing fairy lights and floating cupcakes. 🎂✨</p>
       <p>Suddenly, your favorite song starts playing and everything feels magical. 🎶💃</p>
       <p>Just as you're about to take a bite of the most delicious chocolate cake ever you hear... THAPPP 👋😂</p>
-      <p><strong>Chalo uthooo, school nahi jaana?</strong> Madam's voice echoes! 😆</p>
       <p>Oops! It was all a dream! But guess what? Your real birthday is even better than a dream! 🎊🥳🎁</p>
-      <p>Have a blast, Ashu! 💖</p>
+      <p>Have a blast  ! 💖</p>
 
-      <p><strong>"Ayesha, I know you must be smiling a lot while reading this! 😆💖"</strong></p>
+      <p><strong>"Taxi, I know you must be smiling a lot while reading this! 😆💖"</strong></p>
 
       <p>🌸 May you always stay happy, blessed, and surrounded by love. 💖</p>
       <p>🌟 May your dreams come true, and may life bring you endless joy. ✨</p>
